@@ -1,4 +1,4 @@
-# labpy02
+# labpy03
 
 # Cara membuat bilangan acak yang lebih kecil dari 0,5
 
